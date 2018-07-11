@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Mrliu_SpringMvc" />
+    <file type="web" url="file://$PROJECT_DIR$/MrliuSpring" />
+    <file type="web" url="file://$PROJECT_DIR$/SmallToolsFront" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SmallToolsFront/pom.xml" />
+        <option value="$PROJECT_DIR$/forkjoin/pom.xml" />
+        <option value="$PROJECT_DIR$/Mrliu_SpringMvc/pom.xml" />
+        <option value="$PROJECT_DIR$/Thread/pom.xml" />
+        <option value="$PROJECT_DIR$/JVM/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot/pom.xml" />
+        <option value="$PROJECT_DIR$/Test/pom.xml" />
+        <option value="$PROJECT_DIR$/Test0/pom.xml" />
+        <option value="$PROJECT_DIR$/Proxy/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.7" project-jdk-type="JavaSDK" />
+</project>

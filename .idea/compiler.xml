@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="forkjoin" />
+        <module name="JVM" />
+        <module name="Mrliu_SpringMvc" />
+        <module name="Proxy" />
+        <module name="SmallToolsFront" />
+        <module name="SpringBoot" />
+        <module name="Test" />
+        <module name="Test0" />
+        <module name="Thread" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="forkjoin" target="1.7" />
+      <module name="JVM" target="1.5" />
+      <module name="Mrliu_SpringMvc" target="1.7" />
+      <module name="Proxy" target="1.6" />
+      <module name="SmallToolsFront" target="1.7" />
+      <module name="SpringBoot" target="1.8" />
+      <module name="Test" target="1.5" />
+      <module name="Test0" target="1.5" />
+      <module name="Thread" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

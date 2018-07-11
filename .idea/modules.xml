@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JVM/JVM.iml" filepath="$PROJECT_DIR$/JVM/JVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mrliu_SpringMvc/Mrliu_SpringMvc.iml" filepath="$PROJECT_DIR$/Mrliu_SpringMvc/Mrliu_SpringMvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmallToolsFront/SmallToolsFront.iml" filepath="$PROJECT_DIR$/SmallToolsFront/SmallToolsFront.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot/SpringBoot.iml" filepath="$PROJECT_DIR$/SpringBoot/SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test0/Test0.iml" filepath="$PROJECT_DIR$/Test0/Test0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Forkjoin/forkjoin.iml" filepath="$PROJECT_DIR$/Forkjoin/forkjoin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace-idea.iml" filepath="$PROJECT_DIR$/.idea/workspace-idea.iml" />
+    </modules>
+  </component>
+</project>

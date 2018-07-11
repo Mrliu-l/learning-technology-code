@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Spring MVC-4.3.18.RELEASE" type="spring-mvc">
+    <properties version="4.3.18.RELEASE" />
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$/SmallToolsFront" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SmallToolsFront/lib/spring-webmvc-portlet-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SmallToolsFront/lib/spring-websocket-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SmallToolsFront/lib/spring-web-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SmallToolsFront/lib/spring-webmvc-4.3.18.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/spring-webmvc-4.3.18.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

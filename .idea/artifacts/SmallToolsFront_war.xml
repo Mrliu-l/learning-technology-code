@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SmallToolsFront:war">
+    <output-path>$PROJECT_DIR$/SmallToolsFront/target</output-path>
+    <root id="archive" name="SmallToolsFront.war">
+      <element id="artifact" artifact-name="SmallToolsFront:war exploded" />
+    </root>
+  </artifact>
+</component>
